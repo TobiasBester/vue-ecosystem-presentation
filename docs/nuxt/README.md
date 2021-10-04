@@ -8,6 +8,8 @@ next:
 ---
 # Nuxt [⛰](https://nuxtjs.org/)
 
+<img src="./nuxt-logo.jpg" height="300" alt="Nuxt Logo" />
+
 ## A framework for a framework
 
 ### Increased developer productivity
@@ -18,4 +20,4 @@ next:
 
 ### Improved user experience
 - Optimized production builds
-- More control over rendering and data fetching behavior
+- More control over rendering and data fetching behaviour

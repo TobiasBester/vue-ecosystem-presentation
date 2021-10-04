@@ -3,7 +3,9 @@ next:
     text: Features
     link: /vue-press/features
 ---
-# VuePress [👨‍⚕️👩‍⚕️](https://v2.vuepress.vuejs.org/)
+# VuePress [📰](https://v2.vuepress.vuejs.org/)
+
+<img src="./vuepress-logo.png" height="300" alt="VuePress Logo" />
 
 ## Vue-powered Markdown Static Site Generator
 - Good for technical documentation and menus
